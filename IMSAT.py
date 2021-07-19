@@ -35,7 +35,7 @@ parser.add_argument('--lr', type=float, default=0.002, help='learning rate')
 
 # HP
 parser.add_argument('--xi', type=float, default=10.0, help='xi (VAT)')
-parser.add_argument('--mu1', type=float, default=0.4, help='xi (VAT)')
+parser.add_argument('--mu1', type=float, default=0.4, help='mu as in IMSAT')
 
 args = parser.parse_args()
 
