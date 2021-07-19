@@ -8,4 +8,4 @@ This code is being used in the paper "Deep Clustering via Mutual InformationMaxi
 1. Download the datasets used in the paper:  
 [to be uploaded]
 
-2. Run `IMSAT.py` to run IMSAT. hyper-parameters can be assigned via command-line arguments.  
+2. Run `IMSAT.py` to run the model. hyper-parameters can be assigned via command-line arguments.  
